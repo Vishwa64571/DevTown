@@ -457,5 +457,6 @@
 }
 
 .social__links_container{
-    
+    display: flex;
+    gap: 1px;
 }
