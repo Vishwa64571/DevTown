@@ -405,12 +405,12 @@
     width: 120px;
 }
 
-.section__buttonContainer{
+.section1__buttonContainer{
     display: flex;
     gap: 1rem;
 }
 
-.section__buttonContainer button{
+.section1__buttonContainer button{
     padding: 5px;
     width: 90px;
     border: 1px solid grey;
